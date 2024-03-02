@@ -1,6 +1,6 @@
 ![logo](https://www.bing.com/th/id/OGC.e91028c9a9beefdbaeeed6d2daf1fc22?pid=1.7&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2ff1%2fed%2fa4%2ff1eda4768df8d8135c779772f2833e88.gif&ehk=GkPLSB7%2fiYzWtuSgOSqXdr7Nm2rZ%2bfxsWo1ptNqegS4%3d)
 <h1 align="center">Hi 👋, I'm Zainab Baloch</h1>
-<h3 align="center">A passionate Ai engineer developer from pakistan</h3>  
+<h3 align="center">A passionate Ai engineer developer from  pakistan</h3>  
 
 <img aling="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
